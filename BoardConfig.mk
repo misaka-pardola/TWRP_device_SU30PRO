@@ -102,3 +102,9 @@ TW_USE_TOOLBOX := true
 TW_EXTRA_FIRMWARE_PATH := vendor/firmware
 #touch fix
 RECOVERY_TOUCHSCREEN_SWAP_XY := true
+
+#shrp only
+SHRP_DEVICE_CODE := iflyteksu30pro
+SHRP_MAINTAINER := misaka-pardola
+SHRP_REC_TYPE := Normal
+SHRP_DEVICE_TYPE := A_Only
