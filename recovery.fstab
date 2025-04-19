@@ -1,5 +1,5 @@
 /uboot               emmc     /dev/block/nvme0n1p2                            flags=display=uboot/mnt/internal_sd     vfat     
-/dev/block/platform/ff0f0000.dwmmc/by-name/user     flags=display=internal_sd
+/dev/block/platform/ff0f0000.dwmmc/by-name/user  ext4   flags=display=internal_sd
 /trust               emmc     /dev/block/nvme0n1p3                            flags=display=trust
 /super               ext4     /dev/block/by-name/super                             flags=display=super
 /mnt/external_sd     vfat     /dev/block/mmcblk0p1                                flags=display=external_sd
