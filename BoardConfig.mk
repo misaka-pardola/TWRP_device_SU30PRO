@@ -1,6 +1,6 @@
 
 
-DEVICE_PATH := device/iflytek/su30pro
+DEVICE_PATH := device/iFLYTEK/su30pro
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
