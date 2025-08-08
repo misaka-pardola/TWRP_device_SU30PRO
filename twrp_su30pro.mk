@@ -13,7 +13,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit from su30pro device
-$(call inherit-product, device/device.mk)
+$(call inherit-product, device/iFLYTEK/su30pro/device.mk)
 
 PRODUCT_DEVICE := su30pro
 PRODUCT_NAME := twrp_su30pro

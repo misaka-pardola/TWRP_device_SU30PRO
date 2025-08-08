@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/
+LOCAL_PATH := device/iFLYTEK/su30pro/
